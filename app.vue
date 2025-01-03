@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-gradient-to-b from-blue-600 to-blue-800 text-white">
+  <div class="min-h-screen bg-gradient-to-b from-blue-500 to-blue-600 text-white">
     <header class="fixed top-0 left-0 right-0 bg-white/10 backdrop-blur-md z-50">
       <div class="flex justify-between items-center p-4">
         <h1 class="text-xl font-bold">Vitalis</h1>
